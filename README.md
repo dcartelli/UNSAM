@@ -1,3 +1,3 @@
 # UNSAM
 
-sdk.html
+./sdk.html
